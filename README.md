@@ -142,16 +142,6 @@ See [`package.json`](./package.json) for full list. Key packages include:
 
 ---
 
-## ✍️ License
 
-This project is licensed under the ISC License.
-
----
-
-## 👤 Author
-
-Feel free to add your name or GitHub profile link here.
-
----
 
 
